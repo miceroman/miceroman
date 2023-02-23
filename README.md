@@ -35,3 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/e9b8e2e9f9e0856083f92afb6bec8ec3f902bf62/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miceroman&theme=dark&background=000000)](https://git.io/streak-stats)
